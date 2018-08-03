@@ -44,6 +44,7 @@ La planeación del proyecto se inicio con un sketching, basado en mobile first d
 ![Sketch login](imagenesux/img_20180801_000235.jpg)
 
 ## PROTOTIPO
+
 Basandonos en la encuesta de color y tipografía se realizo un prototipo de Login con los colores que los usuarios nos referian como los que más les gustaron y el tipo de letra que les gustaría ver en la pagina.
 
 ![Login](imagenesux/login.png)
@@ -70,7 +71,7 @@ Tampoco les gusto mucho el nombre de la red social, que en este caso era "Run Ea
 
 Realizaron algunos comentarios en el muro que acontinuación se mostraran:
 
-![Muro](img_20180731_184759.jpg)
+![Muro](imagenesux/img_20180731_184759.jpg)
 
 ![comentarios de usuarios](imagenesux/Screenshot_20180731-194550.png)
 
