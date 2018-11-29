@@ -1,5 +1,7 @@
 # Creando una Red Social
 
+![run4fun](https://user-images.githubusercontent.com/39393016/49242619-d2c9fc80-f3d0-11e8-90c3-330471097fc4.jpg)
+
 ## Preámbulo
 
 Instagram, Snapchat, Twitter, Facebook, Twitch, Linkedin, etc. Las redes
